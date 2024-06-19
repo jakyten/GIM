@@ -20,10 +20,10 @@ spostamento 3
 https://jakyten.github.io/GIM/Esercizio_1A/spostamento_3.html
 
 rotazione 2
-https://jakyten.github.io/GIM/Esercizio_1A/rotazioneo_2.html
+https://jakyten.github.io/GIM/Esercizio_1A/rotazione_2.html
 
 rotazione 3
-https://jakyten.github.io/GIM/Esercizio_1A/rotazioneo_3.html
+https://jakyten.github.io/GIM/Esercizio_1A/rotazione_3.html
 
 
 ### esercizio1b
