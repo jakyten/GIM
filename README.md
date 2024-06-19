@@ -31,7 +31,7 @@ dittico
 https://jakyten.github.io/GIM/Esercizio_1B/create_destroy.html
 
 ### esercizio1c
-
+https://jakyten.github.io/GIM/Esercizio_1C/README.md
 
 ### esercizio2
 https://jakyten.github.io/GIM/Esercizio_2/less_is_more.html
