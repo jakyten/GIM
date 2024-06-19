@@ -3,15 +3,13 @@
 <head>
 	<meta charset="UTF-8"/>
 	<meta name="author" content="Nome Cognome" />
-	<title>Acceso-Spento 3
-
-	</title>
+	<title>less is more</title>
 	<style type="text/css">
 		html{
 			height:100%;
 		}
 		body{
-			background-color: rgb(235,235,235);
+			background-color: rgb(0, 0, 0);
 		}
 		canvas{
 			position:absolute;
@@ -28,11 +26,12 @@
 		import Sequencer from './js/sequencer.min.js';
 
 		Sequencer.make({
-			from         	 : "img/acceso_spento_3/1.png",
-			to           	 : "img/acceso_spento_3/3.png",
+			canvas       	 : document.querySelector("canvas"),
+			from         	 : "img/less_is_more_VDR/file1.png",
+			to           	 : "img/less_is_more_VDR/file100.png",
 			playMode     	 : "auto",
 			loop         	 : "loop", // "pong"
-			interval     	 : 600,
+			interval     	 : 30,
 		})
 	</script>
 </body>

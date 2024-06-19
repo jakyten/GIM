@@ -1,18 +1,3 @@
-# Esercizio 1C
-Lettura
 
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
+"Sul teatro delle marionette" di Heinrich von Kleist presenta un dialogo filosofico in cui l'autore esplora il concetto di grazia attraverso il confronto di ballerini umani e marionette. Il narratore incontra un celebre ballerino, il quale spiega che le marionette, non essendo gravate dalla coscienza e dalla volontà, eseguono movimenti con una grazia e leggerezza inarrivabili per gli esseri umani. Questo comportamento deriva dal controllo del centro di gravità e dall'assenza di intenzionalità, che rende i loro movimenti più puri e naturali. Attraverso questo confronto e metafora, Kleist riflette sull'idea che la conoscenza e la coscienza possono ostacolare la grazia naturale, e suggerisce che per ritrovare questa “grazia perduta”, l'umanità potrebbe dover riacquisire un'innocenza primordiale.
 

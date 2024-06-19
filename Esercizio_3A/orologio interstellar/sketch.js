@@ -24,7 +24,7 @@ function draw() {
     h = "0" + h;
   }
 
-  const txt = h + ":" + m + ":" + s;
+  //const txt = h + ":" + m + ":" + s;
   const morseH = toMorse(h.toString());
   const morseM = toMorse(m.toString());
   const morseS = toMorse(s.toString());
@@ -35,12 +35,12 @@ function draw() {
   textSize(30);
   fill(255);
 
-  text(txt, width / 2, height / 2 - 50);
+  //text(txt, width / 2, height / 2 - 50);
   text(morseTxt, width / 2, height / 2 + 0);
 
 
   textFont('OPTIBodoni-Antiqua');
-  textSize(20);
+  textSize(16);
   fill('white');
   text("the INTERSTELLAR CLOCK", width / 2, height - 90);
 
@@ -58,15 +58,15 @@ function draw() {
 function toMorse(numStr) {
   const morseCode = {
     '0': '-----',
-    '1': '.----',
-    '2': '..---',
-    '3': '...--',
-    '4': '....-',
-    '5': '.....',
-    '6': '-....',
-    '7': '--...',
-    '8': '---..',
-    '9': '----.'
+    '1': '·----',
+    '2': '··---',
+    '3': '···--',
+    '4': '····-',
+    '5': '·····',
+    '6': '-····',
+    '7': '--···',
+    '8': '---··',
+    '9': '----·'
     
     
   };
