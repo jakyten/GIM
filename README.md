@@ -2,41 +2,41 @@
 corso di grafica e movimento Supsi 2024
 ### esercizio1a
 acceso spento 2
-https://jakyten.github.io/GIM/esecizio_1A/acceso_spento_2.html
+https://jakyten.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 
 acceso spento 3
-https://jakyten.github.io/GIM/esecizio_1A/acceso_spento_3.html
+https://jakyten.github.io/GIM/Esercizio_1A/acceso_spento_3.html
 
 aperto chiuso 2
-https://jakyten.github.io/GIM/esecizio_1A/aperto_chiuso_2.html
+https://jakyten.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html
 
 aperto chiuso 2
-https://jakyten.github.io/GIM/esecizio_1A/aperto_chiuso_3.html
+https://jakyten.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
 
 spostamento 2
-https://jakyten.github.io/GIM/esecizio_1A/spostamento_2.html
+https://jakyten.github.io/GIM/Esercizio_1A/spostamento_2.html
 
 spostamento 3
-https://jakyten.github.io/GIM/esecizio_1A/spostamento_3.html
+https://jakyten.github.io/GIM/Esercizio_1A/spostamento_3.html
 
 rotazione 2
-https://jakyten.github.io/GIM/esecizio_1A/rotazioneo_2.html
+https://jakyten.github.io/GIM/Esercizio_1A/rotazioneo_2.html
 
 rotazione 3
-https://jakyten.github.io/GIM/esecizio_1A/rotazioneo_3.html
+https://jakyten.github.io/GIM/Esercizio_1A/rotazioneo_3.html
 
 
 ### esercizio1b
 dittico
-https://jakyten.github.io/GIM/esecizio_1B/indexA.html
+https://jakyten.github.io/GIM/Esercizio_1B/indexA.html
 
 
 ### esercizio2
-https://jakyten.github.io/GIM/esecizio_2/less_is_more.html
+https://jakyten.github.io/GIM/Esercizio_2/less_is_more.html
 
 
 ### esercizio3A
-https://jakyten.github.io/GIM/esecizio_3A/orologio_interstellar.html
+https://jakyten.github.io/GIM/Esercizio_3A/orologio_interstellar/index.html
 
 
 
