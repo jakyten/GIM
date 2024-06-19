@@ -30,6 +30,8 @@ https://jakyten.github.io/GIM/Esercizio_1A/rotazione_3.html
 dittico
 https://jakyten.github.io/GIM/Esercizio_1B/create_destroy.html
 
+### esercizio1c
+
 
 ### esercizio2
 https://jakyten.github.io/GIM/Esercizio_2/less_is_more.html
