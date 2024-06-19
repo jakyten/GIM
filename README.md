@@ -2,7 +2,7 @@
 corso di grafica e movimento Supsi 2024
 ### esercizio1a
 acceso spento 2
-https://jakyten.github.io/GIM/esercizio_1A/acceso_spento_2.html
+https://jakyten.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 
 acceso spento 3
 https://jakyten.github.io/GIM/Esercizio_1A/acceso_spento_3.html
