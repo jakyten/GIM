@@ -36,7 +36,7 @@ https://jakyten.github.io/GIM/Esercizio_2/less_is_more.html
 
 
 ### esercizio3A
-https://jakyten.github.io/GIM/Esercizio_3A/orologio_interstellar.html
+https://jakyten.github.io/GIM/Esercizio_3A/orologio_interstellar/index.html
 
 
 
