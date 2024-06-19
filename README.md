@@ -28,7 +28,7 @@ https://jakyten.github.io/GIM/Esercizio_1A/rotazioneo_3.html
 
 ### esercizio1b
 dittico
-https://jakyten.github.io/GIM/Esercizio_1B/indexA.html
+https://jakyten.github.io/GIM/Esercizio_1B/create_destroy.html
 
 
 ### esercizio2
